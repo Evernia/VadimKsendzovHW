@@ -20,7 +20,7 @@
 
 13. переместить любые 2 файла, которые вы создали, в любую другую папку. --- **mv (что перемещать)object_name object_name (куда перемещать)folder_name**<br>![mv](/img/mv.png)<br>
 14. скопировать любые 2 файла, которые вы создали, в любую другую папку. --- **cp (что копировать)object_name object_name (куда копировать)folder_name**<br>![cp](/img/cp.png)<br>
-15. Найти файл по имени --- **find . object_name**<br>![find](/img/find.png)<br>
+15. Найти файл по имени --- **find . object_name**<br>![find](/img/find_v2.png)<br>
 16. Просмотреть содержимое в реальном времени (команда grep) изучите как она работает. --- **tail -f object_name**<br>![tail](/img/tail.png)<br>
 17. Вывести несколько первых строк из текстового файла --- **head -5 object_name**<br>![head](/img/head.png)<br>
 18. Вывести несколько последних строк из текстового файла --- **tail -5 t1.txt**<br>![tail_-5](/img/tail_-5.png)<br>
