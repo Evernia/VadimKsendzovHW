@@ -1,2 +1,2 @@
 # VadimKsendzovHW
-Homework. Courses by Vadim Kendzov
+Homework. Courses by Vadim Ksendzov
