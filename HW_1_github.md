@@ -29,7 +29,7 @@
  12. Создать файл preferences.json --- **touch preferences.json**<br> ![12](/imgHW1github/12.png)<br>
  13. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, строна которую хотели бы посетить) в формате JSON. --- **vim preferences.json** <br> ![13](/imgHW1github/13.png) ![13_2](/imgHW1github/13_2.png)<br>
  14. Создать файл skills.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON --- **touch skills.json** <br> ![14](/imgHW1github/14.png) ![14_2](/imgHW1github/14_2.png) ![14_3](/imgHW1github/14_3.png)<br>
- 15. Отправить сразу 2 файла на внешний репозиторий. --- **git add . ; git commit -m "commit"; git push **<br> ![15](/imgHW1github/15.png)<br>
+ 15. Отправить сразу 2 файла на внешний репозиторий. --- **git add . ; git commit -m "commit"; git push** <br> ![15](/imgHW1github/15.png)<br>
  16. На веб интерфейсе создать файл bug_report.json.
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
  18. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
