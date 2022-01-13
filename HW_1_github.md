@@ -40,13 +40,20 @@
 ---
 ### Мемная пауза <br>
 
+---
+
 ![mem](https://www.meme-arsenal.com/memes/46c1edf09b34298be3f4fbc5e5372830.jpg) ![mem2](https://cs9.pikabu.ru/post_img/2019/09/30/10/1569865493165237986.jpg)
 
 ---
 
 [Ссылка на репозиторий XML](https://github.com/Evernia/XML)
 
+---
+
 ### XML
+
+---
+
  21. Создать внешний репозиторий c названием XML. <br> ![21](/imgHW1github/21.png)<br> 
  22. Клонировать репозиторий XML на локальный компьютер. --- **git clone link** <br> ![22](/imgHW1github/22.png)<br>
  23. Внутри локального XML создать файл “new.xml”. --- **touch object_name** <br> ![23](/imgHW1github/23.png)<br>
@@ -69,13 +76,20 @@
  ---
  ### Последний рывок и конец проверке! А пока посмотри на котиков :) <br>
  
+ ---
+ 
  ![1](/imgHW1github/1.jpeg) ![cat2](/imgHW1github/2.jpeg) ![cat3](/imgHW1github/3.jpeg)
  
  ---
  
  [Ссылка на репозиторий TXT](https://github.com/Evernia/TXT)
  
+ ---
+ 
  ### TXT
+ 
+ ---
+ 
  39. Создать внешний репозиторий c названием TXT. <br> ![39](/imgHW1github/39.png)<br>
  40. Клонировать репозиторий TXT на локальный компьютер. --- **git clone link** <br> ![40](/imgHW1github/40.png)<br>
  41. Внутри локального TXT создать файл “new.txt”. --- **touch new.txt** <br> ![41](/imgHW1github/41.png)<br>
