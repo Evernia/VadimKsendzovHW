@@ -16,7 +16,7 @@
 Файл со сценарием и ссылку на свой гит хаб отправляйте менторам на проверку.
 
 ---
-Ссылка на репозиторий: https://github.com/Evernia/JSON
+[Ссылка на репозиторий JSON](https://github.com/Evernia/JSON)
 
 ### JSON
  4. Создать внешний репозиторий c названием JSON. <br> ![4](/imgHW1github/4.png)<br>
@@ -38,10 +38,14 @@
  20. Синхронизировать внешний и локальный репозиторий JSON --- **git pull** <br> ![20](/imgHW1github/20.png)<br>
 
 ---
-### Мемная пауза
+### Мемная пауза <br>
+
 ![mem](https://www.meme-arsenal.com/memes/46c1edf09b34298be3f4fbc5e5372830.jpg) ![mem2](https://cs9.pikabu.ru/post_img/2019/09/30/10/1569865493165237986.jpg)
+
 ---
-Ссылка на репозиторий: https://github.com/Evernia/XML
+
+[Ссылка на репозиторий XML](https://github.com/Evernia/XML)
+
 ### XML
  21. Создать внешний репозиторий c названием XML. <br> ![21](/imgHW1github/21.png)<br> 
  22. Клонировать репозиторий XML на локальный компьютер. --- **git clone link** <br> ![22](/imgHW1github/22.png)<br>
@@ -63,10 +67,14 @@
  38. Синхронизировать внешний и локальный репозиторий XML --- **git pull** <br> ![38](/imgHW1github/38.png)<br>
  
  ---
- ### Последний рывок и конец проверке! А пока посмотри на котиков :)
+ ### Последний рывок и конец проверке! А пока посмотри на котиков :) <br>
+ 
  ![1](/imgHW1github/1.jpeg) ![cat2](/imgHW1github/2.jpeg) ![cat3](/imgHW1github/3.jpeg)
+ 
  ---
- Ссылка на репозиторий: https://github.com/Evernia/TXT
+ 
+ [Ссылка на репозиторий TXT](https://github.com/Evernia/TXT)
+ 
  ### TXT
  39. Создать внешний репозиторий c названием TXT. <br> ![39](/imgHW1github/39.png)<br>
  40. Клонировать репозиторий TXT на локальный компьютер. --- **git clone link** <br> ![40](/imgHW1github/40.png)<br>
