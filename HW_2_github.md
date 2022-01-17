@@ -37,7 +37,7 @@
     + git commit -m "add checkList.txt" <br> ![8_1](/imgHW2github/8_1.png)
     + git push <br> ![8_2](/imgHW2github/8_2.png)
     
-9. На внешнем репозитории сделать Pull Request ветки checkList в main<br> ![9](/imgHW2github/9.png)<br>
+9. На внешнем репозитории сделать Pull Request ветки checkList в main<br> ![9](/imgHW2github/9.png)<br> ![9_1](/imgHW2github/9_1.png)<br> 
 10. Синхронизировать Внешнюю и Локальную ветки main<br> ![10](/imgHW2github/10.png)<br>
 
 ### Спасибо за внимание!
