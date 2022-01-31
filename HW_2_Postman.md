@@ -1,10 +1,11 @@
 HW_2 Postman
-
-
+<br>
+![](/imgHW2Postman/.png)<br>
 http://162.55.220.72:5005/first
 1. Отправить запрос.
 2. Статус код 200
-3. Проверить, что в body приходит правильный string.
+3. Проверить, что в body приходит правильный string.<br>
+![1](/imgHW2Postman/1.png)![1_2](/imgHW2Postman/1_2.png)<br>
 
 http://162.55.220.72:5005/user_info_3
 1. Отправить запрос.
