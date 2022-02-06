@@ -1,6 +1,6 @@
 HW_2 Postman
 <br>
-![](/imgHW2Postman/.png)<br>
+<br>![](/imgHW2Postman/.png)<br>
 http://162.55.220.72:5005/first
 1. Отправить запрос.
 2. Статус код 200
@@ -13,11 +13,11 @@ http://162.55.220.72:5005/user_info_3
 3. Спарсить response body в json.
 4. Проверить, что name в ответе равно name s request (name вбить руками.)
 5. Проверить, что age в ответе равно age s request (age вбить руками.)
-6. Проверить, что salary в ответе равно salary s request (salary вбить руками.)
+6. Проверить, что salary в ответе равно salary s request (salary вбить руками.) <br>![4, 5, 6](/imgHW2Postman/6.png)<br>
 7. Спарсить request.
 8. Проверить, что name в ответе равно name s request (name забрать из request.)
 9. Проверить, что age в ответе равно age s request (age забрать из request.)
-10. Проверить, что salary в ответе равно salary s request (salary забрать из request.)
+10. Проверить, что salary в ответе равно salary s request (salary забрать из request.)<br>![10](/imgHW2Postman/10.png)<br>
 11. Вывести в консоль параметр family из response.
 12. Проверить что u_salary_1_5_year в ответе равно salary*4 (salary забрать из request)
 
