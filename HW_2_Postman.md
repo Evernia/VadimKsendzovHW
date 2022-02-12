@@ -18,13 +18,13 @@ http://162.55.220.72:5005/user_info_3
 8. Проверить, что name в ответе равно name s request (name забрать из request.)
 9. Проверить, что age в ответе равно age s request (age забрать из request.)
 10. Проверить, что salary в ответе равно salary s request (salary забрать из request.)
-11. Вывести в консоль параметр family из response. <br>![11](/imgHW2Postman/11.png)
+11. Вывести в консоль параметр family из response. 
 12. Проверить что u_salary_1_5_year в ответе равно salary*4 (salary забрать из request)
 <br>![1](/imgHW2Postman/1.png) ![2](/imgHW2Postman/2.png)<br>
 
 http://162.55.220.72:5005/object_info_3
 1. Отправить запрос.
-2. Статус код 200 <br>![3_1](/imgHW2Postman/3_1.png)<br>
+2. Статус код 200
 3. Спарсить response body в json.
 4. Спарсить request.
 5. Проверить, что name в ответе равно name s request (name забрать из request.)
